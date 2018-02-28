@@ -1,0 +1,42 @@
+html {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+div {
+  background-image: url("C:\Users\cactu\Projects\Broadway\resources\the-flatiron-building.png");
+  background-repeat: no-repeat;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+<p {
+  font-size: 14px;
+}
+
+
+
+footer{
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
